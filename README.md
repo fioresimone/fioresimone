@@ -4,8 +4,9 @@
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fioresimone&label=Profile%20views&color=0e75b6&style=flat" alt="fioresimone" /> </p>
-
-- 📫 How to reach me **simonefiore88@gmail.com**
+<p align="left">
+  <img src="https://www.codewars.com/users/SimoneFiore/badges/large" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
